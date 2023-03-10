@@ -1,0 +1,12 @@
+.vs/
+Build/
+Library/
+Logs/
+MyAssets/
+obj/
+Recordings/
+UserSettings/
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-firstpass.csproj
+IdleActionFarm.sln
